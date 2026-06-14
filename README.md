@@ -18,23 +18,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-```typescript
-const dhika = {
-  username:   "DhikaPradanaaa",
-  role:       "Full Stack Developer",
-  languages:  ["TypeScript", "Python", "C", "C++", "Java"],
-  frontend:   ["React", "Next.js", "Tailwind CSS"],
-  backend:    ["FastAPI", "Django", "Node.js"],
-  database:   ["PostgreSQL", "MongoDB"],
-  currentFocus: "Building scalable web apps & exploring AI integrations",
-  funFact:    "I debug with console.log() and I'm not ashamed 😄",
-};
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -85,30 +68,15 @@ const dhika = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DhikaPradanaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/DhikaPradanaaa/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhikaPradanaaa&repo=PROJECT_1&theme=tokyonight&border_radius=10" alt="Project 1"/>
-</a>
-<a href="https://github.com/DhikaPradanaaa/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhikaPradanaaa&repo=PROJECT_2&theme=tokyonight&border_radius=10" alt="Project 2"/>
+<a href="https://github.com/DhikaPradanaaa/ThinkStep">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhikaPradanaaa&repo=ThinkStep&theme=tokyonight&border_radius=10" alt="Project 1"/>
 </a>
 
 </div>
-
-> 💡 **Tip:** Ganti `PROJECT_1` dan `PROJECT_2` dengan nama repo aslimu!
 
 ---
 
